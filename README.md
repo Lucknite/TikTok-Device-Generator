@@ -7,7 +7,7 @@ No captcha key needed, full API
 
 Source code, can gen up to 1k/min
 
-Proxyless
+Works proxyless
 
 
 https://lucknite.mysellix.io
